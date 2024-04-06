@@ -24,3 +24,4 @@ import './commands'
 beforeEach(()=>{
     cy.log('gg ma man')
 })
+
